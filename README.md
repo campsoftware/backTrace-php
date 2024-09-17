@@ -7,7 +7,7 @@ Creates a BackTrace in PHP and returns a string.
 ### Calling Example
 
 ```php
-phpBackTrace():;
+phpBackTrace();
 ```
 ### Result
 
